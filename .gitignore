@@ -1,0 +1,28 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Minecraft specific files
+*.dat
+*.mca
+*.mcr
+*.ldb
+*.lock
+
+# Ignore Visual Studio Code specific files
+.vscode/
+.AddCompLib/
